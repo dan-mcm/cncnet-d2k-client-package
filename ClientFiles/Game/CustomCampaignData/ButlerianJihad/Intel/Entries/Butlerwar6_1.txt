@@ -1,0 +1,3 @@
+Sharing Control
+
+Artificial Intelligence will have control over your units, being able to give them some orders against your will. In addition there will be other limitations due to this shared control.

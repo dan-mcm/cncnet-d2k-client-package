@@ -1,0 +1,6 @@
+Base Defense - Class
+     Imperial attacks may have slowed, but with war raging across Arrakis, fortifying your base remains a strategic imperative.
+
+     Fortifications work best when complemented by your mobile forces. Concrete Walls are the most basic sort, available immediately after a Construction Yard is deployed. Grenadiers and LRA of any sort can launch attacks over base defenses, making them effective defenders behind cover. Other units, like Troopers and armor, must hold the line in front of them.
+
+     When attacking enemy base defenses, Grenadiers can clear out their walls. Quads will easily destroy Autogun Turrets.

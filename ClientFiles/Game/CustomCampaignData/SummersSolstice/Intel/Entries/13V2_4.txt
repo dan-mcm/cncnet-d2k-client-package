@@ -1,0 +1,4 @@
+Control Node - Support Structure
+     House Atreides' magnificent air fleet once dominated the skies of Dune. Now, the abandoned High Tech Factories stand as monuments to their failure. They have been claimed by House Ordos. It is imperative you rectify this situation posthaste.
+
+     Control Nodes are darkly-colored structures that use an invasive AI to manipulate nearby turrets, among other things. Destroying one of these will grant you limited control over an air base, its defenses, and its Ornithopters. Ornithopters will be sortied in trios to carpet bomb an area as long as both the HTF and Outpost at their related air base remain intact. The Outposts are expendable, but it is critical to your mission that you secure at least one Atreides High Tech Factory.

@@ -1,0 +1,4 @@
+Repair Pad - Support Structure
+     Repair Pads are useful support structures able to fully restore any vehicle's hull integrity, for a price. Vehicles with self-repair systems tend to be much, much less expensive to repair as these systems can assist a Repair Pad in its duties. To quickly send a specific unit back to the nearest Repair Pad, use the repair tool (default: T) on the unit.
+
+     Repair Pads can be built once your local Construction Yards are upgraded and a Refinery is on the field. They can be dropped behind your defenses where vehicles that fall back can safely be repaired. If a vehicle is far away from the Repair Pad it's ordered to drive over, Carryalls may assist it in quickly getting where it needs to go.

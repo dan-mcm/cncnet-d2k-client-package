@@ -1,0 +1,4 @@
+OSO Heavy Combat Tank - Armor
+     Your heavy MBT sacrifices speed in both motion and firing for superior armor. Despite inferior firepower to other Combat Tank variants, their sturdiness is unmatched. Gunfire and grenades won't so much as dent them, and they can flatten squads of Troopers long before their rockets penetrate the tanks' armor.
+
+     They must be used differently from the light Combat Tank model. Where the old model was capable of blitzing enemy positions and maneuvering around the map, your new MBT depends on the firepower of other units. Support them with LRA or Grenadiers. Keep an LAV escort nearby. Troopers can accompany these units to strengthen the frontline itself.

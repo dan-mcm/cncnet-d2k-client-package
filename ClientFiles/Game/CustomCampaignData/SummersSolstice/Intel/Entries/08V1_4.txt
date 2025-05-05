@@ -1,0 +1,4 @@
+Ornithopter - Special
+     House Atreides' magnificent air fleet dominates the skies of Dune. The cornerstone of their fleet is the Ornithopter, a fast winged aircraft sortied from the Atreides' upgraded High Tech Factory and coordinated from the Outpost. Their bombs are effective against all targets, and they can attack with near-impunity from the air.
+
+     The presence of Ornithopters on the field demands the use of Missile Tanks and Rocket Turrets, their only deterrents. Your Heavy Factory isn't set up to build Missile Tanks, but you can order them from the Starport. Rocket Turrets require an upgraded Construction Yard and a Research Center. Upgrade your High Tech Factory to unlock the Research Center.

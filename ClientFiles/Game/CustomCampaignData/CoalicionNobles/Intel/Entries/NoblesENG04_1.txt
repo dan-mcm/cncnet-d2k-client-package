@@ -1,0 +1,4 @@
+Mass:
+These containers contain resources that can be burned in the Refineries to obtain fuel or other materials necessary to equip an army.
+
+It can be harvested by Harvesters, but it is a limited resource that should not be wasted. It is recommended to collect it at the end or only if a quick but temporary increase in credits is needed.

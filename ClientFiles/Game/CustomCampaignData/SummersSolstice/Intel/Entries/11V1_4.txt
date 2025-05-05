@@ -1,0 +1,4 @@
+Cannon Turret - Base Defense
+     Rotating long-barreled cannons best fortified behind Concrete Walls and supported by friendly forces. Cannon Turrets are normally rendered obsolete once Rocket Turrets become available, and they lack the cost-effectiveness and rapid construction speed of Autogun Turrets. However, they may be favored in place of Autogun Turrets where the need for low-tech anti-armor defense is high. They have a superior range to Autogun Turrets and can only be attacked with impunity by Missile Tanks.
+
+     Like other turrets, their utter immobility leaves them vulnerable to a concentrated attack. And, their power can be cut by destroying enough Wind Traps. Cannon Turrets are also generally ineffective at suppressing enemy infantry and LAVs.

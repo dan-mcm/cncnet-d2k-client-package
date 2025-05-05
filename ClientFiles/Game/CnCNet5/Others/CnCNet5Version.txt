@@ -1,0 +1,83 @@
+"cncnet5 client","cncnet5.7z","","590","all","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"sounds","Sounds.7z","CnCNet5","3","ra;td;ts;d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"string tables","Language.7z","CnCNet5","37","ra;td;ts;d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"td spawner exe","cnc95.7z","","28","td*","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"td maps","Maps_TD.7z","","2","td","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"td sidebar graphics","sc-ext-sb.7z","","2","td","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"icons","Icons.7z","CnCNet5","2","ra;td;ts;d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"geoip db","GeoIP.7z","CnCNet5\Others","7","all","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra spawner exe","ra95-spawn.7z","","96","ra*","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra rules.ini","spawn.7z","","5","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra 303 patch","spawn1.7z","","6","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra winter theater","winter.7z","","2","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra desert theater","desert.7z","","2","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra interior theater","interior.7z","","2","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra map preview generator","PreviewGenerator.7z","CnCNet5","5","ra;td","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"main background","CnCNet5ClientBackground.7z","CnCNet5\Others","1","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ts spawner exe","ts-spawn.7z","","56","ts*","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ts maps","TS_Maps.7z","","1","ts","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ts rules.ini","TS_Rules.7z","","7","ts","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ts main background","TS_CnCNet5ClientBackground.7z","CnCNet5\Others","1","ts","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"sqlite dll","System.Data.SQLite.dll.7z","","2","all","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"td main background","TD_CnCNet5ClientBackground.7z","CnCNet5\Others","1","td","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k main background","D2k_CnCNet5ClientBackground.7z","CnCNet5\Others","1","d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k spawner exe","dune2000-spawn.7z","","161","d2*","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k quickmatch","dune2000-qm.7z","","3","d2*","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k config","dune2000-config.7z","","4","d2*","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k maps","D2k_Maps.7z","Data\maps","71","d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k prac.mis","_SPAWN.7z","Data\maps","10","d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"td rules.ini","TD_rules.7z","","1","td","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"hints","hints.7z","CnCNet5\Others","11","ra;td;ts;d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra jungle theater","jungle.7z","","2","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra barren theater","barren.7z","","2","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k rules.ini","rules-spawn.7z","","2","d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k Tilesets","D2k-Tilesets.7z","Data\","7","d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra cave theater","cave.7z","","2","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"d2k tiledata.bin","D2k-TILEDATA.7z","Data\Bin\","1","d2","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"LAN Server","LAN.7z","CnCNet5","1","all","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"server list","_Servers.7z","CnCNet5\Others","1","all","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ts voxels","ts-voxels.7z","","7","ts","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ts config","ts-config.7z","","4","ts","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ts terrain","ts-terrain.7z","","3","ts","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"
+
+"ra maps","Maps.7z","","1","ra","1","https://downloads.cncnet.org/updates/cncnet5/","http://downloads.cncnet.org/updates/cncnet5/"

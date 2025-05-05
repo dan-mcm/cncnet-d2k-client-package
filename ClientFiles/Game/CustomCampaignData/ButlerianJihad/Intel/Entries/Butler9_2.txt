@@ -1,0 +1,3 @@
+Main Enemy
+
+The Emperor is the main target to eliminate. Once their base has been destroyed the Machines will no longer be a threat and the mission will be considered a success.

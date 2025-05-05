@@ -1,0 +1,6 @@
+Grenadier - Infantry
+     Quick support infantry ideal for dealing area damage to enemies. They are also your best asset for revealing hidden units, like Stealth Raiders or Fedaykin Gholas, when commanded to force-fire on their suspected path. To use the force-fire command, select a Grenadier, then hold CTRL and LEFT CLICK on where you would like them to attack.
+
+     Stealth units can be prevented from re-cloaking by keeping fire on them. Autogun Turrets obviously would excel at this.
+
+     You need an upgraded Barracks and an Outpost to deploy Grenadiers.

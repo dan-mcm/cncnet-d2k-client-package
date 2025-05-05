@@ -1,0 +1,118 @@
+Listado de cambios en cada una de las carpetas.
+
+----------
+| BASICO |
+----------
+
+CAMBIOS COMUNES:
+----------------
+-El Tanque Lanzamisiles no requiere del centro IX. Solo mejoras.
+-El Tanque De Sitio; tecnología necesaria = 7
+-Golpeador removido del juego, sustituído por el Invasor (version 2).
+-Sardaukar; tecnología necesaria = 7. Requiere los cuarteles
+*Sardaukar y Sardaukar multijugador poseen los mismos atributos.
+
+ORDOS
+-----
+-Los Ordos pueden construir el Tanque Lanzamisiles.
+
+EMPERADOR
+---------
+-Invasor. Tecnología = 7. Requiere de Ix + Mejoras.
+*Posee el mismo armamento de los Fremen.
+*Precio: 550 créditos
+*Más lento de construir que un Quad.
+
+FREMEN
+------
+-Granadero. Tecnología = 7. Requiere Ix + Mejoras.
+*Armadura = Estación de construcción (más resistente).
+
+
+MERCENARIOS
+-----------
+-Enclave Modificado disponible (en vez del normal).
+-Puerto Estelar Contrabandista. Requiere Enclave Modificado.
+-Fábrica de Alta Tecnología Atreides. Tecnología = 7. Requiere Enclave modificado.
+*Mejoras tecnología 7. Puede producir Cargueros y Ornitópteros.
+-Palacio Harkonnen disponible.
+-Centro de investigación IX no disponible.
+-Saboteador. Tecnología = 7.
+*Se produce el triple de rápido.
+-Ornitópteros. Tecnología = 7
+*Se produce cerca del triple de rápido. Invulnerable.
+-Misil de Mano Letal. Tecnología = 7.
+*Se produce el triple de rápido,
+NOTA: No se puede construir toda la tecnología desde cero, salvo que un Centro de Investigación de IX esté presente en el mapa.
+
+---------------
+| BASICO IASI |
+---------------
+
+-Pequeñas modificaciones para que el jugador (ordos) Pueda construir toda la tecnología de nivel 2 a excepción del Quad.
+
+---------------
+| BASICO QAII |
+---------------
+
+-Pequeñas modificaciones para que el jugador (ordos) Pueda construir toda la tecnología de nivel 2 a excepción del Soldado.
+
+
+-----------
+| CALADAN |
+-----------
+
+-Varios cambios en la tecnología necesaria de los edificios y unidades para que el jugador pueda construir basado en la producción de vehículos ligeros, cambiados estos a nivel tecnológico de 0 y el resto a un nivel alto para que no puedan ser construído.
+
+------------
+| DRACONIS |
+------------
+
+-Varios cambios en la tecnología necesaria de los edificios y unidades para que el jugador pueda construir basado en la producción de infantería, cambiadas estas a nivel tecnológico de 0 y el resto a un nivel alto para que no puedan ser construído.
+
+---------------
+| GIEDI PRIME |
+---------------
+
+-Varios cambios en la tecnología necesaria de los edificios y unidades para que el jugador pueda construir basado en la producción de bombardeo como en el paquete básico, solo que ahora si es posible construir una base desde cero.
+
+------------
+| IMPERIAL |
+------------
+
+-Varios cambios en la tecnología necesaria de los edificios y unidades para que La IA esté limitada a la hora de construir ciertos edificios con tecnología baja.
+-Los Harkonnen tienen disponible El Tanque Sónico y el Desviador para ser construidos.
+
+--------
+| NAVE |
+--------
+-Paquete básico.
+-Los vehículos no pueden aplastar unidades de infantería.
+
+-----------------
+| NAVE ESPECIAL |
+-----------------
+-Paquete básico.
+-Los vehículos no pueden aplastar unidades de infantería.
+-Ninguna unidad requiere mejoras de sus respectivas fábricas.
+-Todas las unidades se producen a una gran velocidad.
+
+----------
+| PUERTO |
+----------
+-Paquete básico.
+-Retirados el MCV, Cosechadora y Carguero del Puerto Estelar.
+*Disponibles el Invasor (armas Fremen), granadero y Desviador en su lugar.
+-El MCV no puede ser construído.
+*Tampoco puede ser desplegado para crear una Estación de Construcción.
+
+---------
+| FINAL |
+---------
+-Paquete básico.
+-Ningun vehículo ni edificio requiere mejoras (Solo para los Ordos).
+-Cambios en los Sardaukar (para usar el nuevo gráfico añadido).
+*ROF = 5
+*Salud = 2000
+*Solo M_HMG como arma
+*Mismos costes y velocidad de producción que en el paquete básico

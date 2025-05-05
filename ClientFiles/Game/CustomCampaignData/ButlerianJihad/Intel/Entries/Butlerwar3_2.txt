@@ -1,0 +1,3 @@
+Modified Outpost
+
+The enemy uses this structure to attract new units to the battlefield. Capture it to receive them instead.

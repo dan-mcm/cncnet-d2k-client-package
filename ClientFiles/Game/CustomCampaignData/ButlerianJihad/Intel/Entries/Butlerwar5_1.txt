@@ -1,0 +1,3 @@
+3 Outposts
+
+Only one of the three Outposts contains the correct data. If a captured Outpost does not contain that data, then it can be discarded. Do not destroy any of them until you know if the Outpost contains such data.

@@ -1,0 +1,4 @@
+Spice Blooms:
+This Bloom is formed when the Spice accumulates underground. The pressure it exerts on the surface is so great that it takes just one shot for it to explode, releasing a large amount of Spice. The formation of these blooms is formed over the years, so once exploited it is unlikely to see them reappear in the same area.
+
+If a unit steps on any Bloom it will be destroyed due to the strong pressures, such that not even the Heaviest vehicle will be able to survive. It is recommended to exploit them with a projectile to avoid stepping on them by accident and to have new fields to Harvest.

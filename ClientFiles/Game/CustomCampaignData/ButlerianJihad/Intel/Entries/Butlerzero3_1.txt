@@ -1,0 +1,3 @@
+Automatic defenses
+
+The Mercenaries have some Machine vehicles to reinforce their defenses, but these remain unmanned and will not be used for offensives. Mercenaries will bring more defensive vehicles if they are destroyed. The destruction of the High Tech Factory will block these reinforcements.

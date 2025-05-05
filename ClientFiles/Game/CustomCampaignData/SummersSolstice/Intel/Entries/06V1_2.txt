@@ -1,0 +1,4 @@
+Siege Tank - LRA
+     The Siege Tank is a cannon on treads capable of annihilating huge packs of infantry or most enemy structures in very few blasts. They're fairly cumbersome and can be destroyed easily by Quads and Combat Tanks, but they excel at razing a base and its defenses, or at defending your base from incoming enemies. They're also an excellent weapon for blasting apart Concrete Walls.
+
+     An upgraded Heavy Factory and a High Tech Factory are both required to manufacture these weapons.
