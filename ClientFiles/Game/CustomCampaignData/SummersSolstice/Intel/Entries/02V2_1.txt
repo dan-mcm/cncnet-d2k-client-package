@@ -1,4 +1,0 @@
-Engineer - Logistics
-     Engineers are responsible for organizing construction, keeping data secure, and diagnosing and fixing problems within your base. Usually, they remain inside your internal base structures and assist with repairs when given the order.
-
-     They can be deployed to the battlefield to disrupt enemy operations. They can even infiltrate structures to provide you with direct control over them. However, due to their lack of combat experience, Engineers on the field should be escorted to these structures to better their chances of capturing one, even if equipped with a sidearm. Capturing an upgraded structure may grant you free upgrade levels up to the maximum for your tech level. This will not increase your tech level overall.

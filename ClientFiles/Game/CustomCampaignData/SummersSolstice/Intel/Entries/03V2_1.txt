@@ -1,4 +1,0 @@
-Shotgunner - Infantry
-     High-powered shotguns have seen a rise in popularity since the war for Arrakis began. Despite their decent effective range, light burstfire rifles deal pitiful damage, though the Atreides seem to disagree. Riflemen remain their basic infantry of choice.
-
-     Shotgunners pack significantly higher firepower, dealing damage in a wider area and with greater effectiveness against armored targets. They can be prepared almost as quickly and easily as Riflemen. The inferior range of their new weapons makes Shotgunners less effective on infantry rock, but better basic infantry against their intended targets: Enemy infantry and LAVs. If you combine the scatter (default: X) and guard (default: G) orders when commanding a group of them, they'll prove their worth.

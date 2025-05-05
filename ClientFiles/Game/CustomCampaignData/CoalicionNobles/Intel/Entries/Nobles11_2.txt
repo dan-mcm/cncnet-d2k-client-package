@@ -1,4 +1,0 @@
-Élite Iasi:
-La especialidad de los Iasi es la Infantería armada, por ese motivo la élite Iasi está compuesta por Infantería Ligera, Soldados y Granaderos así como los edificios necesarios para sustentar una batalla a corto plazo.
-
-Edificios disponibles: Cazavientos, Cuartel, Refinería, Silo, Enclave y la Fábrica de Alta Tecnología. El Centro de Investigación IX es necesario para entrenar Granaderos, pero este edificio tan solo puede ser capturado del enemigo.

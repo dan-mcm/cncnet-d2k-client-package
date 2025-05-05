@@ -1,3 +1,0 @@
-Deactivated Factories
-
-Using two engineers to reactivate both factories will allow the production of units immediately.

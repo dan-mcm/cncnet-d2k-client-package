@@ -1,6 +1,0 @@
-Saboteur - Special
-     Saboteurs are capable of detonating on enemy units or destroying any structure they manage to infiltrate. With cybernetic leg enhancements and personal cloaking devices, they can swiftly and stealthily close the gap with their intended targets.
-
-     Turrets and infantry in close proximity can reveal cloaked Saboteurs. Saboteurs are deployed from the Palace of Deceit.
-
-     Saboteurs always deal damage on death. This makes it easier to micro-manage them while focusing on commanding your main forces. Simply rely on their stealth suits! Used properly, they will always be nearby something you want destroyed before dying.

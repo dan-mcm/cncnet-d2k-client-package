@@ -1,4 +1,0 @@
-Silo - Support Structure
-     When Spice is harvested, it must be stored somewhere. Silos are inexpensive support structures that hold up to 1,500 Solaris in Spice. They can be built quickly, require little power to maintain, and they're resistant to fire damage. For mining operations, many Silos can be amassed to stockpile large amounts of Solaris. Funds accrued through most means will fill Silos.
-
-     Silo variants where ammo, fuel, and other volatile supplies are stored differ from traditional Spice Silos. Although it helps an army function efficiently to have these supplies readily available, an opportunistic enemy commander can attack them to cause destruction and mayhem. Prioritize any munitions stockpiles you find to cause serious damage to anything nearby!

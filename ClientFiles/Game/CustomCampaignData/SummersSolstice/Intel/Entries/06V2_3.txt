@@ -1,6 +1,0 @@
-Launch Pad - Heighliner Structure
-     The massive Guild Heighliners are constantly abuzz loading troops onto Freighters and sending them down to Arrakis. Heighliners contain many Launch Pads where Freighters must dock when they're not making deliveries.
-
-     Should a Freighter be docked at a Launch Pad when you discover it, you may find unused units inside.
-
-     Although the Guild may not take kindly to you looting their Freighters, harvesting mass from their depots, and maybe capturing a Refinery or two to do that, they probably care more that the Imperials are kicked off their ship. The ends justify the means!

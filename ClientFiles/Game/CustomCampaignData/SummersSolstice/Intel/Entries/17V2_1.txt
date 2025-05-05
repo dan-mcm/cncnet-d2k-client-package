@@ -1,6 +1,0 @@
-Stealth Raider - LAV
-     The ultimate scouting and ambush vehicle. A swarm of Stealth Raiders can eat tanks in seconds and escape to repair before the enemy knows what hit them. They're powerful for harassing enemy harvesting operations. They might be useful for taking out enemy superweapons early on. If grouped with other units, the enemy never truly knows how much he's up against.
-
-     Its cloaking system is manufactured at a High Tech Factory. Once built, Stealth Raiders will be available at any Light Factory.
-
-     Stealth Raiders are effective kamikaze weapons against Storm Lasher megaturrets and any enemy forces nearby them.

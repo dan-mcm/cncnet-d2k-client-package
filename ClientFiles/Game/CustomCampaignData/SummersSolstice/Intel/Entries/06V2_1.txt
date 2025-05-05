@@ -1,4 +1,0 @@
-Base Platform - Heighliner Structure
-     Construction Yards root themselves deep in the rock of Arrakis and pull raw materials from the ground to provide for base structures. Standard buildings cannot normally be relied upon in the confines of a Heighliner, but certain zones are laden with Base Platform, which simulates the various elements of Arrakis and allows for base construction.
-
-     The downside is, because of how it works, structures will decay on this discolored orange platform just as they would on Arrakis if built without a concrete foundation. You must continue to use concrete as needed, even on the Heighliner.

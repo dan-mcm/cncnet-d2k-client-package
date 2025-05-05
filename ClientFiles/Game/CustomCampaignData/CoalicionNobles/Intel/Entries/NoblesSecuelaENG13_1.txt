@@ -1,4 +1,0 @@
-Material boxes:
-The Lassoki stored tools and resources in boxes to transport them between different parts of the planet. Typically these storage packs contain metal plates to repair damaged vehicle parts or ammunition. It is even possible to assemble all the pieces to create a new combat vehicle.
-
-Picking up any crate will repair all Deviators and will offer a new one.

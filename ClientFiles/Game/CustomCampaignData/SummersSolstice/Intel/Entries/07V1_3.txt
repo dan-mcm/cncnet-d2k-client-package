@@ -1,4 +1,0 @@
-Missile Tank - LRA
-     A mobile rocket launcher with impressive range and firepower. They are tank snipers that absorb damage from typical anti-armor weapons fairly well, but they're more vulnerable to enemy Shotgunners or Raiders than most other vehicles. Missile Tanks can't be built at your own Heavy Factory, but Durant's can produce them. You need only build a Research Center.
-
-     Commander Moriaen has granted you access to Deviators, another sort of missile-launching LRA, due to your diligence in past missions. They are extraordinarily powerful technology! To build them, your local Heavy Factories must be upgraded twice and you must have a Research Center in the territory. Deviators cannot be built from the mercenaries' Heavy Factory.

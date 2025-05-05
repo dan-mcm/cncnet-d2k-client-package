@@ -1,6 +1,0 @@
-Trooper - Infantry
-     Rocket launcher-armed infantry with a respectable effective range. When scattered along the path of vehicles, they are your most reliable defense against armor. LAVs may pass by too quickly for Troopers to effectively damage them, so grouping some Riflemen with Troopers can greatly help deter those faster vehicles.
-
-     Troopers may on occasion carry gauss rifles not unlike those used widely by rank-and-file Sardaukar Troopers.
-
-     You must upgrade your Barracks to arm and deploy Troopers to the field.

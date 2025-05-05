@@ -1,4 +1,0 @@
-Harvester - Logistics
-     Special heavy vehicles that mine Spice and bring it back to a Refinery for processing. Harvesters' self-repair systems maintain their hull integrity well enough that common environmental threats, such as weak sandstorms and exploding Spice blooms, can be ignored. Harvesters can be fully restored at a Repair Pad for a very low price considering how heavily armored they are.
-
-     Harvesters are tougher than Combat Tanks, but, being unarmed, they're still easy pickings for roving Quads. Look after your own and be on the lookout for those mining Spice for the enemy. Should you find one, destroy it to better your economic edge.

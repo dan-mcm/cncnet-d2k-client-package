@@ -1,3 +1,0 @@
-MCV = Mobile Construction Vehicle
-
-The MCV is a vehicle with which to deploy a Construction Yard, necessary to build the rest of the buildings. Double click on the unit to unfold it.

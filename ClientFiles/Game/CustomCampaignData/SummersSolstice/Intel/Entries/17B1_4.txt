@@ -1,4 +1,0 @@
-Rocket Turret - Base Defense
-     Long-range rotating missile platforms with perfectly precise attacks effective against vehicles of any sort, including aircraft. They must be placed on an intact turret slot to be of any use against Moriaen's ground forces.
-
-     An upgraded Construction Yard and a Research Center are required to produce Rocket Turrets, and they require power to function. You may wish to capture the Wind Traps on the central platform whenever possible in order to power them. As Summers hurries to supply you with more units and technology, it may be some time before she can spare an Engineer to capture the local Research Center. Logically, Autogun Turrets will be available sooner and would perform best guarding infantry-only paths.

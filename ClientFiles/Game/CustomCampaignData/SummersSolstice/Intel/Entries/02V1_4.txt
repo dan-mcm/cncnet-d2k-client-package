@@ -1,4 +1,0 @@
-Starport - Support Structure
-     Sumadi controls many secret Starports all over Arrakis. Although the Spacing Guild is largely responsible for interstellar travel, Sumadi's smugglers are experts at covertly importing forbidden technologies planetside or exporting Spice for sale.
-
-     The Starport can be used to summon common units at varying prices from off-world factories. Any sort of unit you can order from the Starport will be helpful to you on this mission, but you cannot get by with only the Starport. Build up to three of each sort of factory structure, such as the Barracks or Light Factory, to maximize the production speed of related units!

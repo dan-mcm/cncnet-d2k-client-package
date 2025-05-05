@@ -1,4 +1,0 @@
-Repair Pad - Support Structure
-     Unlike with infantry, vehicles are not simple to keep in the field indefinitely. Even the advanced self-repair systems built into Harvesters can only keep them operational amidst environmental dangers, not necessarily maintain them sufficiently to survive a deliberate attack. Because factories must build new vehicles, a separate structure is required to maintain them.
-
-     Repair Pads are useful support structures able to fully restore any vehicle's hull integrity, for a price. Vehicles with self-repair systems tend to be much, much less expensive to repair as these systems can assist a Repair Pad in its duties. To quickly send a specific unit back to the nearest Repair Pad, use the repair tool (default: T) on the unit.

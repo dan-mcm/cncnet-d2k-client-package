@@ -1,4 +1,0 @@
-Iasi Elite:
-The specialty of the Iasi is the Armed Infantry, for that reason the Iasi elite is composed of Light Infantry, Troopers and Grenadiers as well as the buildings necessary to sustain a short-term battle.
-
-Available buildings: Windtrap, Barracks, Refinery, Silo, Outpost and the High-Tech Factory. An Ix Research Center is necessary to train Grenadiers, but this building can only be captured from the enemy.

@@ -1,4 +1,0 @@
-Armor - Class
-     You no doubt understand by now that your infantry and LAVs are fragile and can be lost very quickly if mismanaged.
-
-     Armor units tend to have inferior firepower to other unit types, but what they lack in damage output, they offer in damage absorption. They're vital for keeping your more delicate, but harder-hitting units alive. Combat Tanks are the most common sort of armor, come in several varieties, and are available at almost any Heavy Factory. Other sorts of armor, like Autogun Tanks, may require upgrades at the local Heavy Factories. Rumor has it the Ix are working on another new armor unit...
