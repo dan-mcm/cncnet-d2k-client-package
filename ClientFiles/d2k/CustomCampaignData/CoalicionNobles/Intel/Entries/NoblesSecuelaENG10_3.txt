@@ -1,0 +1,4 @@
+Gems:
+Due to the extremely arid climate and high pressure, this caused certain materials to be compressed into precious gems that can be easily collected and sold for a high price as jewelry or ornaments.
+
+Since they have been underground for so many years, their composition has been purified, becoming a very valuable resource. It is worth 1,000 credits per full Harvester. It is not recommended to have more than one dedicated Harvester for each of the Mining Rigs.

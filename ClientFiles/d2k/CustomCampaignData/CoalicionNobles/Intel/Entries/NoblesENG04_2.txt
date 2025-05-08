@@ -1,0 +1,4 @@
+Mass Deposits:
+These Ixian structures contain large amounts of Mass. Harvesters can harvest their materials for a long time in case you need some extra equipment.
+
+Only one Harvester can mine resources simultaneously, but it is possible to have a total of two or more Harvesters interspersing trips depending on how far away the Refinery is. It's a good idea to start harvesting these Mass Deposits first.

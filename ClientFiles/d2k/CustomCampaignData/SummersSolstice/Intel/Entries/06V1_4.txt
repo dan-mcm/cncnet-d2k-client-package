@@ -1,0 +1,4 @@
+Long-Range Artillery - Class
+     Frontline units require support to successfully rout the enemy. LAVs offer one form of support in flanking targets engaged by your frontline units. LRA are your definitive backline support units, contributing enormous firepower from tremendous range.
+
+     LRA excel behind cover, such as Concrete Walls, armor, or natural barriers. They're one of your most powerful assets for defense. On the attack, you can deploy a Construction Yard near enemy bases, fortify the location with walls and turrets, and move LRA behind those walls and turrets to box in enemy defenders. LRA can also be used to besiege enemy fortifications, but they are expensive, slow, and fragile. If moved so close to danger, they should be protected by other units.

@@ -1,0 +1,3 @@
+Remote Targets
+
+The priority buildings in this mission are all those that use Artificial Intelligence. These targets are slightly separated from the bases of the Mercenaries, making it possible to destroy them without actually damaging Mercenary structures. It is recommended to explore the terrain to find and destroy these structures while avoiding fighting the Mercenaries as much as possible.

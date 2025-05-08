@@ -1,0 +1,4 @@
+Grenadier - Infantry
+     Quick infantry without parallel when it comes to slaughtering enemy infantry or razing fortifications or inner base structures. They can hit targets atop cliffs and over walls. They perform best when deployed in small numbers as support for armor or LAVs and managed separately from other units in large groups. They also make excellent defenders when positioned behind walls.
+
+     Their maximum effective range is the highest among infantry, but they don't fare nearly as well as Shotgunners or Troopers in close quarters. Besides deterring encroaching vehicles, protecting Grenadiers where they're most vulnerable, Troopers intermixed with Grenadiers make a powerful combination useful against almost anything the enemy can respond with.

@@ -1,0 +1,4 @@
+Depósitos de Masa:
+Estas estructuras Ixianas contienen grandes cantidades de Masa. Las Cosechadoras pueden extraer durante largo tiempo sus materiales en caso de necesitar algo de equipamiento extra.
+
+Solo una Cosechadora puede extraer recursos simultáneamente, pero es posible tener un total de dos o más Cosechadoras intercalando viajes dependiendo de lo lejos que esté la Refinería. Resulta conveniente empezar a cosechar estos Depósitos de Masa en primer lugar. 

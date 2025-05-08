@@ -1,0 +1,4 @@
+Flame Tank - LAV
+     A shock-and-awe weapon deployed by the most brutal of regimes. The Flame Tank is built to quickly seize territory and clear enemy infantry and infrastructure in a blaze of glory. Its mounted flamethrower can project a continuous stream of fire onto specific nearby targets, rapidly incinerating one after another. It's also bulky enough to crush infantry.
+
+     Although the Flame Tank is a major threat in close range, it notably deals extremely low damage to concrete fortifications by nature, and it cannot spew fire over Concrete Walls. It's a big, juicy target for explosive weapons, such as rockets or grenades.

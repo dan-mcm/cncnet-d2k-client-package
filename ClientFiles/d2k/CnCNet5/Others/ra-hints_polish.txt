@@ -1,0 +1,28 @@
+Sowieci: Budowa 10 placów budowy pozwala na najszybsza możliwa budowę cewki tesli
+Sowieci: Budowa 7 fabryk wojennych pozwala na osiągnięcie najszybszej możliwej budowy czołgów
+Sowieci: Budowa 12 fabryk wojennych pozwala na osiągnięcie najszybszej możliwej budowy mamutów pancernych
+Sowieci: Budowa 5 fabryk wojennych pozwala na osiągnięcie najszybszej możliwej budowy dział V2
+Alianci: Budowa 4 placów budowy pozwala na najszybsza możliwa budowę turretów
+Alianci: Budowa 6 fabryk wojennych pozwala na osiągnięcie najszybszej możliwej budowy czołgów srednio opancerzonych
+Alianci: Budowa 5 fabryk wojennych pozwala na osiągnięcie najszybszej możliwej budowy czołgów lekkich
+użyj hotkey'a "Q", aby celowac i przemieszczać sie jednocześnie
+Budowa 2 baraków umożliwia najszybszy możliwy trening żolnierzy rakietowych
+Rosja = 10% tańsza, Ukraina = 10% szybsza prędkość naziemna, wszystkie kraje alianckie = 10% wieksza siła ognia
+Atak z poludnia daje przewagę zasięgu ognia o 1 jednostkę
+użyj bookmarków, aby sprawnie przemieszczac sie po 4 wybranych punktach na mapie
+użyj klawisza shift, aby zmusic kilka obronnych budynków do ostrzału i tym samym obrona przed zbliżajacym sie wrogiem
+Wymień sie placami budowy ze swoim sojusznikiem, aby uzyskać nowe technologie niedostępne dla Twojego kraju
+Budowa na mapie z minerałami: mała elektrownia, barak, rafineria, 3 x fabryka wojenna, zaawansowana elektrownia, rafineria, fabryka wojenna, rafineria, 2 x fabryka wojenna, rafineria, zaawansowana elektrownia
+Budowa na mapie z minerałami dla sowietów: mała elektrownia barak rafineria 3 x fabryka wojenna zaawansowana elektrownia rafineria fabryka wojenna rafineria 2 x fabryka wojenna rafineria fabryka wojenna zaawansowana elektrownia
+Mapa z nieskończonym runem Sowieci: mała elektrownia barak rafineria 2 x fabryka wojenna zaawansowana elektrownia 5xfabryka wojenna rafineria Depot
+Mapa z nieskończonym runem Alianci: mała elektrownia barak rafineria 2 x fabryka wojenna zaawansowana elektrownia 4xfabryka wojenna rafineria Depot
+Standardowa mapa: mała elektrownia barak rafineria 2 x fabryka wojenna rafineria mała elektrownia 3xrafineria fabryka wojenna
+Sprzedaj wszystkie budynki oprócz placu budowy, jeśli straciłeś wszystkie elektrownie i nie masz szybkiej produkcji
+Możesz sprzedać warsztat, nabyta technologia zostanie zachowana
+Używając 'alt' i myszy możesz zmusić pojazdy do zmiażdżenia piechoty
+Kliknij dwa razy na fabrykę wojenną, aby stała się główną dla produkcji
+4 inżynierów wystarczy, aby przejąć budynek (4, jeśli jest włączona gra typu Aftermath)
+Postaw jednostki na straży używając klawisza "G", aby umożliwić jednostkę do ataku napotkanego wroga
+Możesz sprzedawać jednostki za pomocą warsztatu (zaczekaj aż pojawi się zielony symbol dolara)
+Kontroluj swoje wywrotki, aby zbierały runo jak najbliżej bazy, unikniesz braku funduszy
+W grze, w której bierze udział 2 graczy, zostaną oni ulokowani jak najdalej siebie (np. gracz w prawym górnym rogu, drugi - w dolnym lewym rogu)

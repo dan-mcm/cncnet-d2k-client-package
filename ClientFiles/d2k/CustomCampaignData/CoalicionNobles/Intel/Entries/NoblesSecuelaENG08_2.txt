@@ -1,0 +1,4 @@
+Flame Tank:
+Given by the Ixians to the Lassoki as payment for their battles against the Bromeli, the Fire Tanks are the pinnacle of invection coming from IX. The Fire Tank has considerable armor and speed, making it highly useful against infantry as well as light vehicles, although it is not advisable to engage enemy units with heavy armor or defensive turrets.
+
+Building this vehicle requires the IX Research Centre and upgrading the Heavy Factory twice (the 2nd time will become available once Research Centre is built).

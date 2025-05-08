@@ -1,0 +1,4 @@
+Grenadier - Infantry
+     Fast infantry suitable for scouting, clearing rock garrisons, and supporting LAVs and armor in combat. They are the most readily available unit capable of attacking over fortifications, such as Concrete Walls. Their attacks are extremely dangerous to enemy infantry and infrastructure, but they're vulnerable in close range without the support of other sorts of units, such as Troopers.
+
+     If caught out in the open, Grenadiers, much like Combat Tanks, are good at 'stutter stepping' due to their movement speed and effective range. This can help them survive. To have them perform the maneuver, you need only issue a move command to a group of them, then order them to stop (default: S) shortly after. The stop command is extremely useful and its use should be mastered!

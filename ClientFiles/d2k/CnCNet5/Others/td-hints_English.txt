@@ -1,0 +1,22 @@
+Make sure to set a control group for your air units before they take off. Air units can't be selected while in flight! While having your units selected, CTRL 1 through 9 creates a control group for those selected units.
+If you're having trouble keeping your Weapons Factory alive against Recon Bikes, try putting infantry around it.
+Recon Bikes are very efficient against heavily armored units such as Light Tanks, Medium Tanks, and Mammoth Tanks.
+Try spreading out your infantry while fighting against AOE units such as Grenadiers, Flamethrowers, or Flame Tanks.
+Nod ground vehicles are not built instantly. Unlike the GDI Weapons Factory, the Nod Airstrip delivers ground units by plane. The plane always comes from the right side of the map. As Nod, try placing your Airstrip as far right as you can.
+As Nod, if you only have 1 Airstrip, sometimes your units will be stuck on 'Ready' until the unit before is delivered. It'll be stuck on 'Ready' until you click it again. To eliminate this, simply build another Airstrip.
+4 Apaches can destroy a Construction Yard.
+4 Orcas can destroy a Weapons Factory.
+7 Orcas can destroy a Refinery.
+Refineries, although costing $2000, can be built very quickly. Having a strong economy is key!
+Helipads can be built very quickly.
+It is recommended to have at least 2 to 3 Refineries before producing your Weapons Factory or Airstrip.
+MLRS are very effective against light vehicles such as Humvees, Buggies, or Recon Bikes.
+Nod SSM Launchers have the longest weapon range in the game! Use this to your advantage.
+You can force fire Flamethrowers to give them slightly extra range. Use CTRL to force fire.
+Use control groups to quickly select between unit groups. (CTRL 1 through 9)
+Chinooks are very potent with Engineers. Use Chinook drops to capture undefended key structures.
+Once a Harvester enters a Refinery to unload its tiberium, it cannot be ordered to come out of the Refinery until it's finished unloading. If the Refinery is destroyed with the Harvester in it, the Harvester is destroyed as well. Although if the Refinery is captured, the Harvester is captured as well.
+Recon Bikes are very fast. Use its quick movement speed to do hit-and-run tactics against undefended units and structures.
+Orcas and Apaches are very effective at harassing Harvesters.
+Manage your economy! Make sure your Harvesters don't wander off too far! Make sure they're harvesting the closest tiberium to your Refinery.
+APCs have a very large sight range and are very effective for scouting.

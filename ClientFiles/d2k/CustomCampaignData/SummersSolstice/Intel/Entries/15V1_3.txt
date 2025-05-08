@@ -1,0 +1,4 @@
+Autogun Turret - Base Defense
+     Rotating dual guns best fortified behind Concrete Walls and supported by friendly forces. Autogun Turrets are cheap and sturdy, and can be rapidly erected in defense of a base. Like Concrete Walls, Autogun Turrets will block all projectiles except those launched over them, such as grenades or long-range missiles. Upgrading the local Construction Yards will provide access to Autogun Turrets in the territory. You may need them urgently to defend against Moriaen's initial attacks.
+
+     While effective at suppressing most enemy infantry and LAVs, their utter immobility leaves them vulnerable to a concentrated attack. And, their power can be cut by destroying enough Wind Traps, although Autogun Turrets are very power-efficient.

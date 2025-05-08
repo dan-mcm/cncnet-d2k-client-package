@@ -1,0 +1,4 @@
+Mobile Construction Vehicle - Logistics
+     MCVs can deploy into Construction Yards. They are invaluable assets that simplify expanding to new rock. However, they lack any means to defend themselves and are quite expensive, so once an MCV is on the battlefield, protect it until it can deploy!
+
+     Expanding to new rock islands is just as essential for your mercenaries as it is for Sumadi's smugglers. Doing so enables the deployment of new Refineries at Spice-rich locations, the establishment of proxy factories to produce units closer to where they're needed, and it gives you greater control over the territory where your units are free to navigate without fear.

@@ -1,0 +1,4 @@
+Rocket Turret - Base Defense
+     Rotating missile platforms best fortified behind Concrete Walls and supported by friendly forces. They are effective tank snipers with an incredibly long range and perfectly precise attacks. They're also one of only two potential responses to enemy Ornithopters. Erecting them atop cliffs or behind Autogun Turrets can make them even more of a pain for your enemies.
+
+     Rocket Turrets pivot much more slowly than Autogun Turrets. They are expensive and ineffective against scattered infantry. Their utter immobility leaves them vulnerable to a concentrated attack, and their power can be cut by destroying enough Wind Traps. While not as dangerous as Storm Lasher megaturrets, you should still be wary of enemy Rocket Turrets.

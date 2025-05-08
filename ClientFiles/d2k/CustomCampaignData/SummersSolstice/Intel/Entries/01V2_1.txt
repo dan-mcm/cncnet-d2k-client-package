@@ -1,0 +1,4 @@
+Light Armored Vehicle - Class
+     LAVs are fast units excellent at scouting the desert and catching slower targets - which consists of anything besides other LAVs. Although easy to destroy, their speed and firepower are invaluable. They can escort infantry across open terrain and flank targets your armored units have engaged. Enemy Harvesters are easy prey for LAVs.
+
+     You must use these light interceptors efficiently in order to complete your mission. Raiders' mounted guns and well-rounded armor are an effective counter against infantry of any sort. Quads are built to break apart more armored targets.

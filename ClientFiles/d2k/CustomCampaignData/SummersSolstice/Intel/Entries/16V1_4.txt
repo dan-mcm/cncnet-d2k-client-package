@@ -1,0 +1,4 @@
+Missile Tank - LRA
+     A mobile rocket launcher with impressive range and firepower. They can fire over walls, at air units, and provide long-range support. They are precise, powerful anti-armor weapons perfect for sniping vehicles of any sort. Thanks to Atani's support, your Heavy Factory is configured to build both normal Missile Tanks and Deviators, a unique offshoot of Missile Tanks.
+
+     Although they absorb attacks from Combat Tanks or Quads quite well, they're more vulnerable than other armored vehicles to fire from Shotgunners or Raiders. They should be positioned behind your frontline units or fortifications. Your Heavy Factory can build Missile Tanks before being upgraded, but a Research Center is their other prerequisite. More can be ordered at a Starport.

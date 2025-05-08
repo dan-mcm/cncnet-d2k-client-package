@@ -1,0 +1,4 @@
+Infantry - Class
+     Infantry units are your first line of defense. They are both readily available and inexpensive, but slow and easy to slaughter. All infantry units carry basic medical supplies onto the field, allowing them to recover at least somewhat between engagements.
+
+     Never underestimate the power of your infantry force! Being able to traverse terrain that vehicles and sandworms cannot, pack incredible firepower into very little space, and stay active in the field given the occasional time to rest, infantry are among the most valuable assets to a wise field commander. Escort them with faster units and protect them with stronger units. You can scatter them (default: X) to mitigate incoming damage, then give the order to guard (default: G) so they attack from their new positions.

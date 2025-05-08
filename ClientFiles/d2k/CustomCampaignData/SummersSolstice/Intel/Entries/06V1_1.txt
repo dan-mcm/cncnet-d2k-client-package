@@ -1,0 +1,4 @@
+Duelist Tank - Armor
+     Durable weapons of Ixian design used primarily by the Ordos and smugglers. Duelist Tanks are meant to draw fire to cover other units. They can also defeat any single unit in combat with few exceptions, true to their name.
+
+     Duelist Tanks are at a disadvantage against quick or long-ranged enemies. Quads can surround and destroy Duelist Tanks with ease. Missile Tanks, especially those behind cover, can snipe Duelist Tanks from well beyond their fairly short range. And, unlike Combat Tanks, Duelist Tanks cannot outrange Troopers with their cannons. Your Heavy Factory may produce these units without need for an upgrade, but a Research Center is their secondary prerequisite.

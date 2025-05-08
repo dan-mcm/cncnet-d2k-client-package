@@ -1,0 +1,4 @@
+Sedimentos de Silicio:
+Draconis IV es un planeta rodeado de gas que contiene partículas de Silicio. Cuando este se concentra adquiere un peso mayor que el del aire y se deposita en la tierra a modo de Sedimentos que pueden ser recolectados por una Cosechadora y transformados en una Refinería.
+
+Debido a su composición es difícil de recoger y convertir, por lo que se requiere mayor tiempo para manipular este recurso. Por si solo estos sedimentos son completamente inofensivos. Tiene un valor de 700 créditos por Cosechadora llena.

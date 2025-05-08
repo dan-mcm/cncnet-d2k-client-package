@@ -1,0 +1,27 @@
+Soviets: Having 10 Construction Yards allows you to build Tesla Coils at the fastest possible speed.
+Soviets: Having 7 War Factories allows you to build Heavy Tanks at the fastest possible speed.
+Soviets: Having 12 War Factories allows you to build Mammoth Tanks at the fastest possible speed.
+Soviets: Having 5 War Factories allows you to build V2 Rocket Launchers at the fastest possible speed.
+Allies: Having 4 Construction Yards allows you to build Turrets at the fastest possible speed.
+Allies: Having 6 War Factories allows you to build Medium Tanks at the fastest possible speed.
+Allies: Having 5 War Factories allows you to build Light Tanks at the fastest possible speed.
+Use the "Q" hotkey to move and fire at the same time.
+Having 2 Barracks allows you to build Rocket Infantry at the fastest possible speed.
+Russia = 10% cheaper, Ukraine = 10% faster ground unit speed, all Allied countries = 10% more firepower.
+Attacking from the south gives you a 1 cell range advantage for certain units.
+Use Bookmark Hotkeys to quickly swap back and forth between locations.
+Using SHIFT allows you to select multiple structures at one time.
+Capture an ally's Construction Yard to gain technology from their faction.
+Allied Tank Build Order on a Gem Map: Power Plant, Barracks, Refinery, 3 War Factories, Advanced Power Plant, Refinery, War Factory, Refinery, 2 War Factories, Refinery, Advanced Power Plant-
+Soviet Tank Build Order on a Gem Map: Power Plant, Barracks, Refinery, 3 War Factories, Advanced Power Plant, Refinery, War Factory, Refinery, 2 War Factories, Refinery, War Factory, Advanced Power Plant-
+Soviet Tank Build Order on an Infinite Ore Map: Power Plant, Barracks, Refinery, 2 War Factories, Advanced Power Plant, 5 War Factories, Refinery, Depot-
+Allied Tank Build Order on an Infinite Ore Map: Power Plant, Barracks, Refinery, 2 War Factories, Advanced Power Plant, 4 War Factories, Depot-
+Standard Map Build Order: Power Plant, Barracks, Refinery, 2 War Factories, Refinery, Power Plant, 3 Refineries, War Factory-
+Lost all your power and can't build anything fast enough? Sell all of your structures excluding your Construction Yard and rebuild again!
+Sell your Service Depot after building it to save power. You will keep the technology you gained from building it.
+Using ALT allows you to give a force move command. Use this with vehicles against infantry to squish them.
+4 Engineers capture a building. Although when Aftermath is enabled, it only takes 3 Engineers instead.
+Using G while having a group of units select puts them into Guard mode. Units in Guard mode will automatically seek targets that are nearby.
+You can sell vehicles by placing them onto your Service Depot. Once they're on the Service Depot, sell them like you would normally a structure, except this time wait for the green dollar sign to show before selling.
+Control your Harvesters to harvest the nearest ore or gems closest to your Refinery.
+In a 2 player game, without spectators, both players will always start in the farthest spawn locations from each other.

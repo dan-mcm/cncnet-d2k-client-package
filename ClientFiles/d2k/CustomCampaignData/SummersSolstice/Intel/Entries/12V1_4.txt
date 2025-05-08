@@ -1,0 +1,4 @@
+Deviator - LRA
+     A unique backline support unit. Deviators are fast, lightly armored missile platforms of Ixian design commissioned originally by House Ordos. They have the longest range of any Ixian tech on the field and can wreak havoc on enemy forces like no other unit. Notably, Deviators hard counter Devastators because Devastators can self-destruct on command.
+
+     Contrary to previously disseminated lies, Deviators' attacks do in fact release a poison that affects the vehicles' pilots, not the vehicles themselves. Since the gas works only in the enclosed space of cockpits, Deviators' pressurized canisters simply blow infantry away with concussive force. These units were probably used to overwhelm the base at False Wall, so be wary of them.

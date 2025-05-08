@@ -1,0 +1,4 @@
+Masa:
+Estos contenedores contienen recursos que pueden ser quemados en las Refinerías para conseguir carburante u otros materiales necesarios para equipar a un ejército.
+
+Puede ser cosechado por las Cosechadoras, pero es un recurso limitado que no debe ser derrochado. Se recomienda recogerlo al final o solo si se necesita un incremento rápido aunque temporal de créditos.

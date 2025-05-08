@@ -1,0 +1,4 @@
+Devastator - Armor
+     The toughest tank on Dune. Fifty Devastators were hoarded at False Wall, but the unknowns have surely ruined most.
+
+     Devastators are the monstrous combination of Ixian design and Harkonnen industry. Their dual plasma cannons are extremely effective at close range, and they provide excellent cover for any weaker unit. Although very slow, they are more heavily armored than any other vehicle and can automatically self-repair to a point. These self-repair systems can assist a Repair Pad in efficiently restoring a Devastator's hull integrity to maximum. As a last resort, a Devastator can detonate its internal reactor to self-destruct and damage nearby targets. They must be met with overwhelming force, or they will never be destroyed.

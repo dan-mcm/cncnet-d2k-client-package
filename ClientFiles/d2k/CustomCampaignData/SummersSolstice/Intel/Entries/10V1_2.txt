@@ -1,0 +1,4 @@
+Raider - LAV
+     Fast light vehicles with mounted weapons suitable for scouting, interception, and killing infantry or destroying certain vehicles designed to absorb damage from typical anti-armor weapons. Massing Raiders will prove useful under many circumstances.
+
+     While more expensive, Raiders are superior to their more common counterpart, Trikes. They are built to be modified with special accessories or alternative weapons, such as stealth modules or shotguns, and even the standard variant has advantages in armor, movement speed, and rate of fire over Trikes. No other unit on the field can catch or escape from Raiders.

@@ -1,0 +1,6 @@
+Stealth Raider - LAV
+     One of Sumadi's favored weapons, the Stealth Raider is the ultimate scouting and ambush vehicle. A swarm of Stealth Raiders can eat tanks in seconds and escape to repair before the enemy knows what hit them. They're powerful for harassing enemy harvesting operations. If grouped with other units, the enemy never truly knows how much he's up against.
+
+     Its cloaking system is manufactured at a High Tech Factory. Once built, Stealth Raiders will be available at any Light Factory.
+
+     Sumadi's preferences suggest he may favor stealth systems on units other than Raiders, impractical though that may be.

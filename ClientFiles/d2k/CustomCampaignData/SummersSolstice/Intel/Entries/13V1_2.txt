@@ -1,0 +1,4 @@
+Shock Raider - LAV
+     Raiders outfitted with plasma-based weaponry similar to Devastators' cannons. These mysterious units were first sighted in CHOAM Freighters aboard a Spacing Guild Heighliner, but it seems they're finally being put to use by the unknown enemies.
+
+     Shock Raiders are expensive light interceptors with precise attacks effective against all targets. In addition, their attacks can arc over walls. Despite these advantages, Shock Raiders are no tougher than standard Raiders, and have an even shorter range. Massed Shotgunners or Troopers are an effective counter. High-end LAVs like Stealth Raiders or RPG Quads, which are available to you and Durant respectively, may also suffice. A High Tech Factory is needed to build those out of your local Light Factories.

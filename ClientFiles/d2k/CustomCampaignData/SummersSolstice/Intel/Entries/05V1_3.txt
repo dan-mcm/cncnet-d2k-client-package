@@ -1,0 +1,4 @@
+Logistics - Class
+     Bases aren't operated by your militia. Engineers assess the rock and maintain base structures. MCVs deploy where feasible and create those base structures. Harvesters mine the Spice that affords all other technologies. Carryalls transport these units, and more. These units comprise your logistics division.
+
+     Logistics units facilitate the expansion and maintenance of your base and interfere with enemy operations. Their utility on the battlefield is essential and unquestionable. Protecting them should be a high priority.

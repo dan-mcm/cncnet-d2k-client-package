@@ -1,0 +1,4 @@
+Shotgunner - Infantry
+     Basic frontline infantry armed with high-powered shotguns. They're a major threat to enemy infantry or LAVs, but only in close range. Shotgunners are very inexpensive and can be recruited in droves faster and sooner than any other infantry unit, except Riflemen. Their injuries are generally easier to patch up than those sustained by other standard infantry, although they can't take as much punishment overall either. Scatter your Shotgunners before ordering them to approach enemies.
+
+     Numbers alone won't win a war. Their relative ineffectiveness against armored units and structures demands the deployment of stronger weapons. Thus, they perform best when accompanying Troopers into battle.

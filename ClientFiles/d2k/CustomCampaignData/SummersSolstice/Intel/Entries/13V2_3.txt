@@ -1,0 +1,6 @@
+Concrete Wall - Base Defense
+     The most basic form of base defense, available immediately after a Construction Yard is deployed. They require no power, can be rapidly built and repaired, and protect your base against most conventional weapons. Used in combination with Grenadiers, RPG Quads, or LRA, which can attack over them, they are a cheap and effective defense.
+
+     When attacking a fortified position, Grenadiers can clear out enemy Concrete Walls. Follow up with your frontline units.
+
+     Concrete Wall sections cannot be sold. Like Concrete Foundation, they must be broken apart with weapons or abandoned.
