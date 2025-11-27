@@ -3,15 +3,30 @@ setlocal enabledelayedexpansion
 cd /d "%~dp0"
 if exist spawn.ini (
     copy /Y spawn.ini d2k\spawn.ini
-    REM Extract scenario name from spawn.ini and copy corresponding .MAP file
+    REM Extract scenario name from spawn.ini
     for /f "tokens=2 delims==" %%a in ('findstr /C:"Scenario=" spawn.ini') do (
         set SCENARIO=%%a
         REM Remove any leading/trailing spaces
         set SCENARIO=!SCENARIO: =!
-        REM Copy .MAP file from root data\Missions to d2k\data\Missions if it exists
-        if exist "data\Missions\!SCENARIO!.MAP" (
+        
+        REM Check if IsSinglePlayer=Yes to determine file handling
+        findstr /C:"IsSinglePlayer=Yes" spawn.ini >nul 2>&1
+        if !errorlevel! == 0 (
+            REM Singleplayer - copy .MAP file from root data\Missions to d2k\data\Missions
+            if exist "data\Missions\!SCENARIO!.MAP" (
+                if not exist "d2k\data\Missions\" mkdir "d2k\data\Missions"
+                copy /Y "data\Missions\!SCENARIO!.MAP" "d2k\data\Missions\!SCENARIO!.MAP" >nul 2>&1
+            )
+        ) else (
+            REM Multiplayer/Skirmish - copy both .mis and .map files from Maps\Standard to d2k\data\Missions
+            REM Game expects _SCENARIO.mis (with underscore prefix) and SCENARIO.map (without underscore) in d2k\data\Missions
             if not exist "d2k\data\Missions\" mkdir "d2k\data\Missions"
-            copy /Y "data\Missions\!SCENARIO!.MAP" "d2k\data\Missions\!SCENARIO!.MAP" >nul 2>&1
+            if exist "Maps\Standard\_!SCENARIO!.mis" (
+                copy /Y "Maps\Standard\_!SCENARIO!.mis" "d2k\data\Missions\_!SCENARIO!.mis" >nul 2>&1
+            )
+            if exist "Maps\Standard\!SCENARIO!.map" (
+                copy /Y "Maps\Standard\!SCENARIO!.map" "d2k\data\Missions\!SCENARIO!.map" >nul 2>&1
+            )
         )
     )
 )
