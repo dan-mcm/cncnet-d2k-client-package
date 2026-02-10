@@ -4,7 +4,7 @@ cd /d "%~dp0"
 if exist spawn.ini (
     copy /Y spawn.ini d2k\spawn.ini
     REM Extract scenario name from spawn.ini
-    for /f "tokens=2 delims==" %%a in ('findstr /C:"Scenario=" spawn.ini') do (
+    for /f "tokens=2 delims==" %%a in ('findstr /B /C:"Scenario=" spawn.ini') do (
         set SCENARIO=%%a
         REM Remove any leading/trailing spaces
         set SCENARIO=!SCENARIO: =!
@@ -26,6 +26,7 @@ if exist spawn.ini (
             )
             if exist "Maps\Standard\!SCENARIO!.map" (
                 copy /Y "Maps\Standard\!SCENARIO!.map" "d2k\data\Missions\!SCENARIO!.map" >nul 2>&1
+                copy /Y "Maps\Standard\!SCENARIO!.map" "d2k\!SCENARIO!.map" >nul 2>&1
             )
         )
     )
