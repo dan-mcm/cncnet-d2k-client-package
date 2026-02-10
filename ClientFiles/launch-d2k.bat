@@ -37,6 +37,12 @@ if exist spawn.ini (
                     copy /Y "!MAPSRC!\!SCENARIO!.map" "d2k\data\Missions\!SCENARIO!.map" >nul 2>&1
                     copy /Y "!MAPSRC!\!SCENARIO!.map" "d2k\data\maps\!SCENARIO!.map" >nul 2>&1
                 )
+                REM Game loads [Text], triggers, rules, music from map INI at .\MapsResourcePath\MissionMap.ini (MissionMap = spawn.ini Scenario=).
+                REM Single copy to d2k\data\maps\ (likely MapsResourcePath) for debugging.
+                if exist "!MAPSRC!\!SCENARIO!.ini" (
+                    if not exist "d2k\data\maps\" mkdir "d2k\data\maps"
+                    copy /Y "!MAPSRC!\!SCENARIO!.ini" "d2k\data\maps\!SCENARIO!.ini" >nul 2>&1
+                )
             )
         )
     )
@@ -46,22 +52,20 @@ cd /d "%~dp0d2k"
 REM Skip first argument (batch file name) and pass rest to game executable
 shift
 
-REM Check if IsSinglePlayer=Yes in spawn.ini to determine which exe to use
+REM Which exe: dune2000.exe for singleplayer only; dune2000-spawn.exe for skirmish/multiplayer/co-op
+REM (dune2000.exe does not handle multiplayer spawn.ini and crashes with "side out of range (255)")
 REM (spawn.ini is now in d2k directory after copy)
 findstr /C:"IsSinglePlayer=Yes" spawn.ini >nul 2>&1
 if %errorlevel% == 0 (
     REM Singleplayer mission - use dune2000.exe
-    REM For singleplayer, dune2000.exe needs -SPAWN argument to read spawn.ini
     if exist dune2000.exe (
-        REM Pass all arguments (%*) - this includes -SPAWN, -LOG, -CD from the client
         start dune2000.exe %*
     ) else (
         echo dune2000.exe not found for singleplayer!
         pause
     )
 ) else (
-    REM Multiplayer - use dune2000-spawn.exe
-    REM dune2000-spawn.exe automatically reads spawn.ini, but we pass arguments anyway
+    REM Multiplayer / Skirmish / Co-op - use dune2000-spawn.exe
     if exist dune2000-spawn.exe (
         start dune2000-spawn.exe %*
     ) else (
