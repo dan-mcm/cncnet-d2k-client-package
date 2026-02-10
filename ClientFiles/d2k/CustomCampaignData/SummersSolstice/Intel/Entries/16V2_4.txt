@@ -1,4 +1,0 @@
-Control Node - Support Structure
-     Heighliners are massive ships with hundreds of vehicles, thousands of infantry, and unimaginable amounts of resources moving about regularly. Despite Commander Moriaen's talent, there is simply too much to oversee at once. The Guild is expected to use Control Nodes, helpful AIs that command robotic Combat Tanks produced at nearby Heavy Factories, to simplify her duties. Usually, they help load the vehicles into Freighters, but they may instead direct tanks towards your boarding party.
-
-     If the Control Nodes are destroyed, you can turn their corresponding units and structures on the non-robotic Guild enemies. Naturally, they're well-defended to prevent this. Atani's at least able to make it easier by getting their locations for you.

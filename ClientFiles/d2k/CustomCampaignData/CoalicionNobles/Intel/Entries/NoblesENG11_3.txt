@@ -1,4 +1,0 @@
-Silicon Sediments:
-Draconis IV is a planet surrounded by gas that contains silicon particles. When this is concentrated it acquires a greater weight than that of air and is deposited on the ground as Sediments that can be collected by a Harvester and transformed into a Refinery.
-
-Due to its composition, it is difficult to collect and convert, which requires more time to handle this resource. By themselves these sediments are completely harmless. It is worth 700 credits per full Harvester.

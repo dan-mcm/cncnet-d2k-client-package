@@ -1,4 +1,0 @@
-Autogun Tank - Armor
-     Dual autoguns fixed atop a massive frame. A titanic vehicle by necessity due to the number of rounds it must lug around, the Autogun Tank is cumbersome, but its hulking body can absorb a tremendous amount of damage. They're best used against smaller units, such as infantry or LAVs, but their durability advantage enables them to hold decently against lone Combat Tanks despite being ineffective against armor. They are no substitute for a Duelist Tank's excellent, well-rounded firepower.
-
-     Autogun Tanks represent a logistical challenge for battlefield commanders. They are complicated and fairly expensive to build and maintain. Your local Heavy Factories must be upgraded twice in order to manufacture Autogun Tanks.

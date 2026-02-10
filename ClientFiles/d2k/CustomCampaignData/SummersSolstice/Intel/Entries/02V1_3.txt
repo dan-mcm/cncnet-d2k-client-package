@@ -1,4 +1,0 @@
-Wind Trap - Essential Structure
-     Dune is battered constantly by harsh winds. However, its environmental hostility isn't without certain benefits. The wind can be harvested and used as a reliable source of energy by specially-designed Wind Traps. Many healthy Wind Traps are required to keep a base and its defenses operational. Turrets will be disabled and factories rendered inefficient at low power.
-
-     Wind Traps vary in size. Their construction speed, power output, sturdiness and cost make large Wind Traps the most efficient and common. Mini Wind Traps may be preferable to build in the event of slightly insufficient power where a large Wind Trap would be excessive and take too long to build, to quickly tech up for Refineries, or where there is little room to place structures.

@@ -1,4 +1,0 @@
-Storm Lasher - Base Defense
-     The most advanced stationary defense structure. Its capacitors keep a fully-charged shot ready to instantly strike targets at twice the range of Rocket Turrets with enough power to destroy weak units in one attack.
-
-     Its only fault is its rate of fire. And, it predictably fires on the nearest target. You can keep one unit ahead of the rest to act as a lightning rod and limit harm to your main force. You can also sacrifice stealth units to make it strike friendlies. Like other turrets, Storm Lasher megaturrets require power to function. To build and power one, you will need an upgraded Construction Yard, a Research Center, one dedicated Wind Trap in good health, and yet more data still kept secret by the Dark Alliance.

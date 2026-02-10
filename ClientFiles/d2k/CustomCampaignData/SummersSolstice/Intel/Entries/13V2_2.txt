@@ -1,4 +1,0 @@
-Shock Raider - LAV
-     Your new superweapon is not yet ready for mass deployment, but your Raiders can be outfitted with similar, more portable weaponry. Rather than discharge enormous amounts of energy into slow, destructive attacks, the Shock Raider is a fast light vehicle with precise, rapid attacks that can arc over walls. Their attacks are strong against all targets.
-
-     Shock Raiders are no tougher than standard Raiders and have an even shorter range. Like Flame Tanks, this makes them more effective in smaller numbers as only so many of them can form up around targets. They can be built from your local Light Factories once a Research Center is erected in the same territory. Upgrade your High Tech Factory to build a Research Center.

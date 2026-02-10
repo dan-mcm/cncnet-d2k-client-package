@@ -1,6 +1,0 @@
-Quad - LAV
-     The Quad is an anti-armor interceptor. Though a poor scout compared to the Raider, its speed and firepower make a deadly combination against isolated targets, and it can be mass-produced easily due to its nature as a light vehicle.
-
-     Quads are considerably more durable than Raiders against Autogun Turrets' attacks. They also shrug off attacks from Riflemen, Shotgunners, Trikes, Raiders, and Grenadiers, but fall easily to rockets from Troopers or enemy Quads.
-
-     Upgrades are expensive and take time. You'll have to choose between unlocking Troopers and Grenadiers, or Quads, first.

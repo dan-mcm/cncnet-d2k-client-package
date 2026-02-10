@@ -1,4 +1,0 @@
-Mass Deposit - Heighliner Structure
-     Spice is the most valuable substance in the Known Universe. Spice occurs naturally only on the planet Arrakis. Heighliners are dotted with Mass Deposits - towering storehouses containing useful materials. They will be your primary source of funds.
-
-     Supply Depots are often found near Mass Deposits. They are designated zones for massive stockpiles of valuable but limited supplies. Be careful not to deplete them too quickly! Once gone, your only source of funds will be Mass Deposits, which have only so much space for Harvesters to extract Mass from. Assign Harvesters to Mass Deposits lacking an attached automated Mass Extractor first. Task excess Harvesters with gathering the crates. Expand or use Carryalls to reach other Mass Deposits.

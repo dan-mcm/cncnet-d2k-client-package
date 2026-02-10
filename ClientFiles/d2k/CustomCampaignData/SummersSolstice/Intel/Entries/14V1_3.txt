@@ -1,4 +1,0 @@
-Mobile Construction Vehicle - Logistics
-     MCVs can deploy into Construction Yards. They are invaluable assets that simplify expanding to new rock. However, they lack any means to defend themselves and are quite expensive, so once an MCV is on the battlefield, protect it until it can deploy!
-
-     In addition to the cost of the vehicle itself, the Heavy Factory must be upgraded to produce MCVs.

@@ -1,3 +1,0 @@
-Inactive factories
-
-Machine Factories lack Artificial Intelligence, so they are now unable to build new combat units or repair their structures.

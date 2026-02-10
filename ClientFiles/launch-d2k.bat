@@ -12,21 +12,31 @@ if exist spawn.ini (
         REM Check if IsSinglePlayer=Yes to determine file handling
         findstr /C:"IsSinglePlayer=Yes" spawn.ini >nul 2>&1
         if !errorlevel! == 0 (
-            REM Singleplayer - copy .MAP file from root data\Missions to d2k\data\Missions
-            if exist "data\Missions\!SCENARIO!.MAP" (
-                if not exist "d2k\data\Missions\" mkdir "d2k\data\Missions"
-                copy /Y "data\Missions\!SCENARIO!.MAP" "d2k\data\Missions\!SCENARIO!.MAP" >nul 2>&1
+            REM Singleplayer - game loads by scenario name from data\Missions only (_SCENARIO.mis + SCENARIO.MAP)
+            if not exist "d2k\data\Missions\" mkdir "d2k\data\Missions"
+            set "SP_SRC="
+            if exist "d2k\data\Missions\_!SCENARIO!.mis" set "SP_SRC=d2k\data\Missions"
+            if not defined SP_SRC if exist "data\Missions\_!SCENARIO!.mis" set "SP_SRC=data\Missions"
+            if defined SP_SRC (
+                if exist "!SP_SRC!\_!SCENARIO!.mis" copy /Y "!SP_SRC!\_!SCENARIO!.mis" "d2k\data\Missions\_!SCENARIO!.mis" >nul 2>&1
+                if exist "!SP_SRC!\!SCENARIO!.MAP" copy /Y "!SP_SRC!\!SCENARIO!.MAP" "d2k\data\Missions\!SCENARIO!.MAP" >nul 2>&1
             )
         ) else (
-            REM Multiplayer/Skirmish - copy both .mis and .map files from Maps\Standard to d2k\data\Missions
-            REM Game expects _SCENARIO.mis (with underscore prefix) and SCENARIO.map (without underscore) in d2k\data\Missions
+            REM Multiplayer/Skirmish/Co-Op - spawn exe uses fixed names in data\maps (_spawn.mis + map), so copy there too
             if not exist "d2k\data\Missions\" mkdir "d2k\data\Missions"
-            if exist "Maps\Standard\_!SCENARIO!.mis" (
-                copy /Y "Maps\Standard\_!SCENARIO!.mis" "d2k\data\Missions\_!SCENARIO!.mis" >nul 2>&1
-            )
-            if exist "Maps\Standard\!SCENARIO!.map" (
-                copy /Y "Maps\Standard\!SCENARIO!.map" "d2k\data\Missions\!SCENARIO!.map" >nul 2>&1
-                copy /Y "Maps\Standard\!SCENARIO!.map" "d2k\!SCENARIO!.map" >nul 2>&1
+            if not exist "d2k\data\maps\" mkdir "d2k\data\maps"
+            set "MAPSRC="
+            if exist "Maps\Co-op\!SCENARIO!.map" set "MAPSRC=Maps\Co-op"
+            if not defined MAPSRC if exist "Maps\Standard\!SCENARIO!.map" set "MAPSRC=Maps\Standard"
+            if defined MAPSRC (
+                if exist "!MAPSRC!\_!SCENARIO!.mis" (
+                    copy /Y "!MAPSRC!\_!SCENARIO!.mis" "d2k\data\Missions\_!SCENARIO!.mis" >nul 2>&1
+                    copy /Y "!MAPSRC!\_!SCENARIO!.mis" "d2k\data\maps\_spawn.mis" >nul 2>&1
+                )
+                if exist "!MAPSRC!\!SCENARIO!.map" (
+                    copy /Y "!MAPSRC!\!SCENARIO!.map" "d2k\data\Missions\!SCENARIO!.map" >nul 2>&1
+                    copy /Y "!MAPSRC!\!SCENARIO!.map" "d2k\data\maps\!SCENARIO!.map" >nul 2>&1
+                )
             )
         )
     )

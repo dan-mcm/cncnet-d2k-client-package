@@ -1,4 +1,0 @@
-Repulsion Field Generator - Heighliner Structure
-     Pylons that suppress units with repulsion fields. Infantry and light vehicles are incapable of moving through the beams they produce, and the RFG pylons are impervious to attacks by normal weapons. The turrets atop them, however, are not invincible.
-
-     RFGs usually protect depots of resources or vehicles. There are likely to be a couple of depots packed with light Combat Tanks scattered around deck 12, judging from what the Ordos spies have discovered about Guild unit production here. It's strategically imperative to seek them out and claim whatever lies on the other side of the beams for yourself! Scouting aggressively for them would help solidify your defenses and snowball your invasion as you reach a critical mass of Combat Tanks that much sooner.

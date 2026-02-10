@@ -1,4 +1,0 @@
-Refinery - Essential Structure
-     The Spice Melange is the most valuable substance in the Known Universe. It expands sight, lengthens life, it is the key to interstellar travel. He who controls the Spice controls the universe. Thus, Emperor Corrino controls the universe at this time.
-
-     Spice found naturally in fields on Arrakis cannot be appropriately used. Harvesters can deliver Spice to a Refinery for processing, generating funds you will decide how best to use, provided there is space to store that Spice. You can use these funds to repair environmental damage to your structures, construct additional Harvesters from a Heavy Factory, or recruit militia to fend off sandworms. Whatever your needs, you must meet them by maintaining one or more Refineries.

@@ -1,4 +1,0 @@
-Harvester - Logistics
-     Special heavy vehicles that mine Spice and bring it back to a Refinery for processing. Harvesters' self-repair systems maintain their hull integrity well enough that common environmental threats, such as weak sandstorms and exploding Spice blooms, can be ignored. Harvesters are critical for funding your war effort, but they're defenseless except for their heavy armor.
-
-     Any enemy Harvesters you seek and destroy will mean less funds for them to resist you with. LAVs are ideal for hit-and-run attacks on enemy Harvesters, or for defending your own. You could also create a forward base with another MCV to keep the battle closer to the enemy. More map control allows your Harvesters to safely fund your needs from well behind the front lines.

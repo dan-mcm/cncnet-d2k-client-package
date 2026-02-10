@@ -1,3 +1,0 @@
-Automatic Defenses
-
-These unmanned Missile Tanks have a defensive system designed to fire on our enemies but lack any Artificial Intelligence, so they will not turn against us under any circumstances.

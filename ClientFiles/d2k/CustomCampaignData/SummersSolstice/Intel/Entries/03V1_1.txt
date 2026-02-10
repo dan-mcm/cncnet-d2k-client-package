@@ -1,4 +1,0 @@
-Raider - LAV
-     Smuggler Raiders are fast light vehicles usually built with mounted machine guns suitable for scouting and killing infantry. Their standard guns are also effective against certain vehicles built to absorb damage from typical anti-armor weapons. Many Raiders of any sort can chew almost anything to bits in seconds.
-
-     While more expensive, Raiders are by necessity superior to their more common counterpart, Trikes. They are built to be modified with special accessories or alternative weapons, such as stealth modules or shotguns, and even the standard variant has advantages in armor, movement speed, and rate of fire over Trikes. No other unit on the field can catch or escape from Raiders.

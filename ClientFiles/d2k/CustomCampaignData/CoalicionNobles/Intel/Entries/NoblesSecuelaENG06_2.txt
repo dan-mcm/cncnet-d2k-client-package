@@ -1,4 +1,0 @@
-Repulsion Fields and Generators:
-The Repulsion Field Generators is a portable shield producer being developed for use inside Navigators' Guild Ships. Their goal is to block any intruder or even block projectiles.
-
-For now it is only a prototype that can only prevent the passage of Infantry and Light Vehicles. Any type of Heavy Vehicle is capable of withstanding the force of the shield and passing through it without any problem.
