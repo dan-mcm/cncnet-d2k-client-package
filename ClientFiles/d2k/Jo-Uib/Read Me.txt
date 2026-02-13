@@ -1,0 +1,3 @@
+Hello you can paste this in
+Dune 2000\data
+work only for 1024*768 resolution
